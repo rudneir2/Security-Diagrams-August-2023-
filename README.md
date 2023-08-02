@@ -2,7 +2,7 @@
 
 ## Those below are Security diagrams (drafts) used during Security conversations with Customers of any type of industry
 
-## Diagram 1 - 
+## Diagram 1 - Security big picture VS approaches
 ![image](https://github.com/rudneir2/Security-Diagrams-August-2023-/assets/97529152/7900d1ba-8ad1-4a2f-b4f8-ec42bff6e4ce)
 
 ## Diagram 2 - 
